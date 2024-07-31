@@ -12,7 +12,7 @@ const Navbar = () => {
           <div className='flex flex-shrink-0 items-center'>
             <img src={AK} alt=" no img" className=" mx-2 h-14"/>
           </div>
-          <div className="flex m-8 items-center justify-center gap-10 text-4xl text-white">
+          <div className="flex m-8 items-center justify-center gap-5 lg:gap-10 text-2xl lg:text-4xl text-white">
             <a href="https://www.instagram.com/aryan._.kashyap?igsh=OTVlejgzOHdubTNq" target="_blank" className="hover:scale-150 hover:text-pink-500 transition-all  duration-300"><FaInstagram/></a>
 
             <a href="https://www.linkedin.com/in/aryan-kashyap3005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"className="hover:scale-150 hover:text-blue-500 transition-all duration-300"><FaLinkedin /></a>
